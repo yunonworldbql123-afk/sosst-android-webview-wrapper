@@ -1,19 +1,42 @@
- sosst-android-webview-wrapper
-A lightweight Android WebView app for SOSST (sosst.com), providing fast access to the official website with a native app experience.
-This is an Android application designed to provide fast and convenient access to https://sosst.com using a WebView-based interface.
+sosst-android-webview-wrapper
 
- 🚀 Features
-- Quick access to sosst.com
+A lightweight Android WebView app for SOSST International Crowdfunding (sosst.com), providing fast and convenient access to the official platform with a native-like mobile experience.
+
+🚀 Features
+- Quick access to SOSST platform
 - Lightweight Android application
-- Simple and clean user experience
-- Optimized for mobile devices
+- Clean and simple user experience
+- Optimized mobile WebView performance
 - Minimal permissions required
+- Always synced with official website content
 
- 📱 Overview
-This application loads the official SOSST website in a native Android WebView, providing a smoother mobile browsing experience.
+🌍 About SOSST Platform
+SOSST (SOSST International Crowdfunding) is a global reward-based crowdfunding platform that helps creators bring ideas to life through community funding.
 
- 📦 Download
-Latest APK can be found in the Releases section.
+Key highlights:
+- Operates in 100+ countries and regions
+- Supports 11+ languages, making it one of the most globally accessible crowdfunding platforms
+- Reward-based crowdfunding model where backers receive products or rewards
+- Stable long-term operation since 2016
+- Supports creators, startups, and innovative product development worldwide
+- Secure platform with project verification and risk control mechanisms
 
- 🌐 Website
+SOSST connects global innovators with supporters, enabling ideas to become real products through community-driven funding.
+
+📱 Overview
+This application is a lightweight Android WebView wrapper that loads the official SOSST website: https://sosst.com
+
+It provides a smoother, faster, and more app-like browsing experience compared to a standard mobile browser.
+
+⚡ Advantages
+- Fast launch and low resource usage
+- Mobile-optimized interface
+- No heavy native development required
+- Always up to date with the official website
+- Simple installation and usage
+
+📦 Download
+Latest APK available in the Releases section.
+
+🌐 Website
 https://sosst.com
